@@ -1,0 +1,39 @@
+h1 {
+  text-decoration: greenyellow;
+}
+
+body {
+  background-color: darkslateblue;
+}
+
+p {
+  text-align: center;
+  color: whitesmoke;
+  font-size: 50px;
+}
+
+k {
+  margin-left: 600px;
+  color: orange;
+  font-size: 25px;
+}
+
+l {
+  margin-left: 500px;
+  color: white;
+  font-size: 350px;
+}
+
+#ghost31 {
+  position: relative;
+}
+
+.large-image {
+  width: 500px;
+  height: auto;
+}
+
+m {
+  margin-left: 900px;
+  margin-top: -500px;
+}
